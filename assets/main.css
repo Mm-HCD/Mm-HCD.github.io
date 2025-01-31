@@ -38,7 +38,7 @@ body{
 }
 
 #love {
-/*     display:block; */
+    display:block;
     text-align:center;
 }
 a{color: #b8860b; text-decoration:none;}
