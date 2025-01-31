@@ -37,6 +37,10 @@ body{
     width: 1000px;
 }
 
+#love {
+    display:block;
+    text-align:center;
+}
 a{color: #b8860b; text-decoration:none;}
 a.current{color: #52739e;}
 a.current:hover{color: #e82945;}
